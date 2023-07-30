@@ -4,7 +4,6 @@ This repository hosts a web-based project that serves as an immersive movie show
 
 ![portfolio-img6](https://github.com/mohammadpiriyan/AriMovie/assets/50291430/df7626ec-3ffa-4cd0-bae5-f8f85e1487b0)
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 
 ## Features
